@@ -22,3 +22,9 @@
   <a href="https://www.linkedin.com/in/isaak-thaylor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ##
+  
+<div>
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=th4ylor)](https://github.com/stats-organization/github-stats-extended)
+</div>

@@ -24,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-            - name: Add dark background
+      - name: Add dark background
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -41,7 +41,6 @@ jobs:
           file.write_text(svg)
           PY
 
-
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -49,3 +48,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

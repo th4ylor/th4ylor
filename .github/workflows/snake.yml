@@ -24,12 +24,25 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Add dark background
+            - name: Add dark background
         run: |
-          sed -i 's/<svg /<svg style="background-color:#0d1117" /' \
-            dist/github-contribution-grid-snake-dark.svg
+          python3 - <<'PY'
+          from pathlib import Path
 
-      - name: Push snake to output branch
+          file = Path("dist/github-contribution-grid-snake-dark.svg")
+          svg = file.read_text()
+
+          svg = svg.replace(
+              ">",
+              '><rect width="100%" height="100%" fill="#0d1117"/>',
+              1
+          )
+
+          file.write_text(svg)
+          PY
+
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

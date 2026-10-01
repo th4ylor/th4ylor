@@ -1,6 +1,7 @@
-## Olá, sou Isaak Thaylor, estudante de programação e tecnologia!
+## Olá, sou Isaak Thaylor, estudante de Ciência da Computação!
 
 <div style="display: inline_block"><br>
+
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -10,38 +11,50 @@
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/th4ylor.json" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:isaakthaylor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isaak-thaylor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
 </div>
 
-  ##
-  
+##
+
+<div>
+
+<a href="https://instagram.com/th4ylor.json" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:isaakthaylor@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/isaak-thaylor/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+##
+
 <div>
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=th4ylor&layout=compact&theme=dark_github"/>
 </div>
 
+##
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/th4ylor/SEU-REPOSITORIO/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/th4ylor/th4ylor/output/github-contribution-grid-snake-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/th4ylor/SEU-REPOSITORIO/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/th4ylor/th4ylor/output/github-contribution-grid-snake.svg"
   />
 
   <img
-    alt="github contribution snake"
-    src="https://raw.githubusercontent.com/th4ylor/SEU-REPOSITORIO/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/th4ylor/th4ylor/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+```

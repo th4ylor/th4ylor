@@ -26,5 +26,5 @@
   ##
   
 <div>
- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github)
+ https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github
 </div>

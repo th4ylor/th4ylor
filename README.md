@@ -25,6 +25,7 @@
 
   ##
   
-<div>
- https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=th4ylor&rank_icon=github&show_icons=true&theme=dark_github"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=th4ylor&layout=compact&theme=dark_github"/>
 </div>

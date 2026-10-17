@@ -59,16 +59,6 @@ Confira os repositórios para conhecer o código e acompanhar a minha evolução
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img height="265" src="https://github-stats-extended.vercel.app/api/top-langs/?username=th4ylor&layout=compact&theme=dark_github" alt="Linguagens mais utilizadas nos repositórios"/>
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">

@@ -52,7 +52,7 @@ Desenvolvedor em formação, com foco em desenvolvimento web e programação com
 | [**Weather**](https://github.com/th4ylor/weather) | App de previsão do tempo para praticar consumo de APIs e JavaScript. | HTML, CSS, JavaScript, OpenWeather API |
 | [**Login System**](https://github.com/th4ylor/Login-System) | Sistema de login e cadastro em PHP puro, para estudar sessões e roteamento. | PHP, HTML, CSS |
 | [**SimpleStore**](https://github.com/th4ylor/SimpleStore) | Vitrine de carros com carrossel e janelas de detalhes, focada no visual. | HTML, CSS, JavaScript |
-| [**LGPDFarma**](https://github.com/th4ylor/LGPDFarma) | Projeto sobre privacidade e proteção de dados no contexto farmacêutico. | — |
+| [**LGPDFarma**](https://github.com/th4ylor/LGPDFarma) | Plataforma web sobre proteção de dados (LGPD) para farmácias. Projeto acadêmico em grupo, criado com apoio de IA. | React, TypeScript, Node.js, Prisma |
 
 Confira os repositórios para conhecer o código e acompanhar a minha evolução.
 

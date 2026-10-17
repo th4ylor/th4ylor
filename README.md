@@ -78,7 +78,7 @@ Confira os repositórios para conhecer o código e acompanhar a minha evolução
 <a href="https://www.linkedin.com/in/isaak-thaylor/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/th4ylor">
+<a href="https://instagram.com/th4ylor.json">
   <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="mailto:isaakthaylor@gmail.com">

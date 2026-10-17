@@ -2,6 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação**  
 Desenvolvedor em formação, com foco em desenvolvimento web e programação FullStack.
+
 🌱 Aprendo construindo projetos: gosto de entender como as tecnologias funcionam por dentro e transformar ideias em aplicações práticas
 
 ---

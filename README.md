@@ -63,9 +63,7 @@ Confira os repositórios para conhecer o código e acompanhar a minha evolução
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=th4ylor&show_icons=true&theme=dark_github&rank_icon=github" alt="Estatísticas do GitHub de Isaak"/>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=th4ylor&layout=compact&theme=dark_github" alt="Linguagens mais utilizadas nos repositórios"/>
+<img height="265" src="https://github-stats-extended.vercel.app/api/top-langs/?username=th4ylor&layout=compact&theme=dark_github" alt="Linguagens mais utilizadas nos repositórios"/>
 
 </div>
 
